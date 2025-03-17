@@ -1,7 +1,7 @@
 baseURL = "https://www.example.com/"  # Replace with your actual base URL
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-staticDir = ["static", "themes/Niello/static"]
+staticDir = ["static"]
 theme = "Niello"
 
 [languages]
