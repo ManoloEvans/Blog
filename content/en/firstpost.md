@@ -8,8 +8,8 @@ description = "My experience setting up the Niello Hugo theme for my first blog 
 draft = false
 +++
 
-![H](/../../static/image/seminolesprings.jpeg)
-<img src="/../../static/image/seminolesprings.jpeg" alt="Deer" />
+![H](../../static/image/seminolesprings.jpeg)
+<img src="../../static/image/seminolesprings.jpeg" alt="Deer" />
 
 
 ## Part 1: The struggle
