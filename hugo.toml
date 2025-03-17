@@ -34,6 +34,8 @@ theme = "Niello"
     limit = 2
   [params.email]
     contact = "meevans111@gmail.com"
+    github = "https://github.com/ManoloEvans"
+    linkedin = "https://www.linkedin.com/in/manoloevans"
   [params.ignore]
     categories = ["privacy", "terms", "archives", "cookie"]
   [params.license]
