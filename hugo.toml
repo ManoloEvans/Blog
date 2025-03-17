@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"  # Replace with your actual base URL
+baseURL = "https://manoloevans.netlify.app/"  # Replace with your actual base URL
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 staticDir = ["static"]
