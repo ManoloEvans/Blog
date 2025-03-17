@@ -30,16 +30,15 @@ theme = "Niello"
 
 [params]
   [params.bannershowcase]
-    categories = ["AI"]
+    categories = ["Design"]
     limit = 2
   [params.email]
-    contact = "meevans111@gmail.com"
-    github = "https://github.com/ManoloEvans"
+    contact = "meevans111@gmail.com https://github.com/ManoloEvans"
     linkedin = "https://www.linkedin.com/in/manoloevans"
   [params.ignore]
-    categories = ["privacy", "terms", "archives", "cookie"]
+    categories = ["privacy", "terms", "archives", "cookie", "contact"]
   [params.license]
-    copyright = "&#xA9; 2019 ~ 2025 by guangmean. All Rights Reserved."
+    copyright = "&#xA9; 2025 by Manolo Evans. All Rights Reserved."
   [params.share]
     sharethis = "******"  # Optional, add your ShareThis app ID here
   [params.disqus]
