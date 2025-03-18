@@ -5,7 +5,7 @@ categories = ["Development", "Design", "Hugo"]
 tags = ["Go", "Mac", "Hugo Theme", "Niello"] 
 keywords = ["Hugo", "Theme", "Niello", "Blogging", "Website"] 
 description = "My experience setting up the Niello Hugo theme for my first blog post—the triumphs and tribulations!"
-draft = false
+draft = true
 +++
 
 ![H](/image/seminolesprings.jpeg)

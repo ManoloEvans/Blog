@@ -30,7 +30,7 @@ theme = "Niello"
 
 [params]
   [params.bannershowcase]
-    categories = ["Design"]
+    categories = ["TinyGo"]
     limit = 2
   [params.email]
     contact = "meevans111@gmail.com https://github.com/ManoloEvans"

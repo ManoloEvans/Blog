@@ -9,8 +9,11 @@ layout = "contact"
 
 ## Manolo Evans
 
-## Email: meevans111@gmail.com
+## Email: 
+**meevans111@gmail.com**
 
-## Github: https://github.com/ManoloEvans
+## Github:
+**https://github.com/ManoloEvans**
 
-## LinkedIn: https://www.linkedin.com/in/manoloevans
+## LinkedIn:
+**https://www.linkedin.com/in/manoloevans**
