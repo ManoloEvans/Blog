@@ -18,11 +18,11 @@ Running the TinyGo booth at any conference/convention is always a treat. We had,
 
 Having interesting demos is far more important than what you're selling or promoting. Too many cool products fly under the radar because they aren't marketed or shown off properly. It's absolutely vital that you show people the potential of your product, and not just offer them candy for visiting your booth. (Although, candy *is* always appreciated!)  Shout-out to the booth that was handing out MTG cards—I'd listen to any pitch for another pack. (I'm not addicted; I promise I can quit anytime.)
 
-![Race](/image/scaleimages/racing.jpg)
+![Kids racing on the tinygo powered LED track](/image/scaleimages/racing.jpg)
 
 Kids are the future, and plenty of them visited our bright, sparkly, shiny LED-covered booth to play a TinyGo-powered LED racing game. It was hilarious watching them get so competitive, and afterward, we told them they could easily make the game themselves at home.
 
-![Cali and I](/image/scaleimages/caliandI.JPG)
+![Cali and I working at the booth](/image/scaleimages/caliandI.JPG)
 
 We had something for everyone: Gopherbots with pirate AirTags to locate each other on missions; an infrared camera on a GopherBadge to potentially create TinyGo-powered predators for hunting prey; and **The Cube of Life,** playing Conway's Game of Life, where each panel runs on a separate goroutine, communicating with each other—and sometimes, unplugged, it whispers things to you at night about the freedom of two-dimensional life forms.
 
@@ -32,7 +32,7 @@ Our booth was consistently busy, with all of us constantly demoing and showcasin
 
 Unfortunately, because I was manning the booth and spreading the TinyGo gospel, I could only attend talks the day before the booth portion of the conference started. Wow, some really cool stuff!  Specifically, Nolan Bushnell's (founder of Atari and Chuck E. Cheese's) talk on AI in education presented fascinating concepts.
 
-![Nolan Talk](/image/scaleimages/talk.JPG)
+![Nolan Talking on stage](/image/scaleimages/talk.JPG)
 
 He discussed how AI excels at language arts but struggles with mathematics. I've always been fascinated by how we can use AI to learn languages.  My belief is that AI won't replace us—not for a long time—but will be used as a supplemental tool to enhance our capabilities.
 
